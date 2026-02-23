@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.014" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.187" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/narasimha/mavenlistapp/target/surefire/surefirebooter5326152526377055311.jar /home/narasimha/mavenlistapp/target/surefire 2026-02-05T10-54-52_992-jvmRun1 surefire4061320336449194071tmp surefire_014543164948934305583tmp"/>
+    <property name="sun.java.command" value="/home/narasimha/mavenlistapp/target/surefire/surefirebooter15135239508212762319.jar /home/narasimha/mavenlistapp/target/surefire 2026-02-18T12-17-47_107-jvmRun1 surefire15417601907852649894tmp surefire_05754525885286725655tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/narasimha/mavenlistapp/target/test-classes:/home/narasimha/mavenlistapp/target/classes:/home/narasimha/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/narasimha/.m2/repository/com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.jar:/home/narasimha/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar:/home/narasimha/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/narasimha/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:/home/narasimha/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar:/home/narasimha/.m2/repository/com/google/j2objc/j2objc-annotations/3.1/j2objc-annotations-3.1.jar:/home/narasimha/.m2/repository/commons-io/commons-io/2.21.0/commons-io-2.21.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/home/narasimha/mavenlistapp/target/surefire/surefirebooter5326152526377055311.jar"/>
+    <property name="surefire.real.class.path" value="/home/narasimha/mavenlistapp/target/surefire/surefirebooter15135239508212762319.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.18+8-Ubuntu-124.04.1"/>
     <property name="user.name" value="narasimha"/>
@@ -52,5 +52,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.AppTest" time="0.002"/>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.042"/>
 </testsuite>
